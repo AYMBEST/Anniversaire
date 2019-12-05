@@ -1,0 +1,85 @@
+body {
+    background-color: #85cff7;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+  }
+  
+  #list_section {
+    text-align: center;
+  }
+  
+  #header {
+    background-color: #fff;
+    color: #000;
+    font-size: 20px;
+    list-style-type: none;
+    width: 20%;
+    margin: 0px auto;
+    border-radius: 10px;
+    border: 1px solid #000;
+    padding: 30px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+
+  span {
+    background-color: aqua;
+    padding: 10px;
+  }
+  
+  ul {
+    padding: 0;
+    margin-bottom: 30px;
+  }
+  
+  li {
+    /* background-color: #fff; */
+    color: #000;
+    font-size: 20px;
+    list-style-type: none;
+    width: 20%;
+    margin: 0px auto;
+    border-radius: 10px;
+    border: 1px solid #000;
+    padding: 10px;
+    margin-bottom: 60px;
+  }
+  
+  /* p {
+    background-color: #00FF00;
+    color: #000; 
+    padding: 10px;
+    display: inline-block;
+    margin: 20px auto 20px auto;
+    width: 80%;
+    border-radius: 5px;
+    text-align: center;} */
+
+  
+  /* .item {
+    background-color: #fff;
+    color: #000;
+  }
+  
+  input[type='text'] {
+    font-size: 12px;
+    padding: 6px;
+    border: 1px solid #000;
+    border-radius: 3px;
+  }
+  
+  input[type='submit'] {
+    background-color: #fff;
+    color: #000;
+    border-radius: 8px;
+    border: none;
+    padding: 5px;
+  }
+  
+  #newItemButton {
+    display: none;
+  }
+  
+  #itemField {
+    margin-top: 60px; 
+    width: 10%;
+  } */
